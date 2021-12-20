@@ -1,11 +1,9 @@
 ## Hello there! This is TaliAly or Allyson
-
 I'm more into the world of Front-End or at least in Web Development.
 
 #### Things I could handle in this code world:
 - HTML
 - CSS
-
 #### Trying to learn:
 - JavaScript
 - Design
