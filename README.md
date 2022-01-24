@@ -1,17 +1,12 @@
-## Hello there! This is TaliAly or Allyson
-I'm more into the world of Front-End or at least in Web Development.
+# Hello there! Allyson here
+I'm happy to say I'm learning Front-End here and making my own things! there isn't too much I can tell, so I think imma go to learn more
 
-#### Things I could handle in this code world:
-- HTML
-- CSS
-#### Trying to learn:
-- JavaScript
-- Design
+Oh right, Check my projects! I'm working to improve then and give then a better look everytime I can 
 
-#### You can get me at:
-discord: NieTali#6634
-<br>
-
+### · Liking!
+- Typescript
+- Writting Stories
+- Linux + OpenSource
 :D
 <!---
 TaliAly/TaliAly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
