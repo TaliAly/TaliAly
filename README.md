@@ -18,7 +18,7 @@ Hello, I'm a Front End Web Developer who is still studying things
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js">
 
-Oh right, Check my projects! I'm working to improve then and give then a better look everytime I can 
+Oh right, Check my projects! I'm working to improve them and give then a better look everytime I can 
 
 ### · Liking!
 - Typescript
