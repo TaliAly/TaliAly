@@ -11,7 +11,7 @@
 
 ## About me
 
-- 💙 Loving Touhou Lunar Nights
+- 💙 Loving Touhou Luna Nights
 - 👀 Looking for Vite <img src="https://vitejs.dev/logo.svg" alt="vite js" width="20px">
 - 🌸 Front End!
 
