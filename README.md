@@ -1,5 +1,6 @@
 <h1 align="center"> Hello there! </h1>
 
+![img](https://github.com/TaliAly/TaliAly/blob/main/spired%20away%20night.png)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux">
