@@ -72,7 +72,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talialy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="talialy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talialy&show_icons=true&theme=tokyonight&locale=en" alt="talialy" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=talialy&show_icons=true&theme=tokyonight&locale=en" alt="talialy" /></p>
 
 </div>
 
