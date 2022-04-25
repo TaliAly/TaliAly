@@ -68,7 +68,7 @@
 
 <hr>
 
-<div align="center">
+<div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talialy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="talialy" /></p>
 
