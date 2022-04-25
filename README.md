@@ -48,7 +48,7 @@
                                                                                                                                 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaliAly&theme=tokyonight)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talialy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talialy&layout=compact&theme=tokyonight)
   
 
 </div>
