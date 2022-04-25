@@ -31,7 +31,7 @@
 
 <div>
    <h3> Languages </h3>
-  <br /><br />
+
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -50,10 +50,12 @@
   <a href="#"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /></a>
 </div>
+
+<br />
   
 <div>
   <h3> Tools </h3>
-  <br /><br />
+
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -75,5 +77,7 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=talialy&show_icons=true&theme=tokyonight&locale=en" alt="talialy" /></p>
 
 </div>
+
+<br /><br /><br />
 
 <img src="https://raw.githubusercontent.com/TaliAly/TaliAly/main/spired%20away%20night.png" alt="bg spired away" align="center" />
