@@ -1,9 +1,6 @@
 <h1 align="center"> Hello! </h1>
 <h3 align="center"> I'm Tali a FrontEnd web developer </h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash">
-</div>
+
 <br />
 <p align="center">
 <a href="https://twitter.com/allynomu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allynomu" height="30" width="40" /></a>
@@ -79,5 +76,6 @@
 </div>
 
 <br /><br /><br />
-
-<img src="https://raw.githubusercontent.com/TaliAly/TaliAly/main/spired%20away%20night.png" alt="bg spired away" align="center" />
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/92195207/180657984-24e5f67b-0565-4aef-adac-fc6a881519f7.svg" alt="this shouldn't happen :(" />
+<div />
