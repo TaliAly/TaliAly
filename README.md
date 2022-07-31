@@ -29,9 +29,9 @@
 
 <br>
 
-### Currently Supported!
+## Currently Supported!
 
-<table><tr><td valign="top">
+<table align="center"><tr><td valign="top">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -50,11 +50,11 @@
 
 </div>
 
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talialy&layout=compact" alt="top lang" />
-</td>
-</tr></table>
+</td><td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talialy&layout=compact" alt="top lang" align="center" />
+
+</td></tr></table>
 
 <br />
 <br />
