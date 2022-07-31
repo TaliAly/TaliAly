@@ -1,81 +1,59 @@
-<h1 align="center"> Hello! </h1>
-<h3 align="center"> I'm Tali a FrontEnd web developer </h3>
+<h1 align="center"> Hello! I'm Tali </h1>
+<h3 align="center">  a FrontEnd web developer <img src="https://user-images.githubusercontent.com/92195207/180657984-24e5f67b-0565-4aef-adac-fc6a881519f7.svg" alt="this shouldn't happen :(" width="40" align="center" /> </h3>
 
 <br />
-<p align="center">
-<a href="https://twitter.com/allynomu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allynomu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18422418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18422418" height="30" width="40" /></a>
-</p>
-
-<br>
-<br>
-
-
-### About me
-
-- 💙 Love Touhou Luna Nights
-
-- 👀 Using Vite! <img src="https://vitejs.dev/logo.svg" alt="vite js" width="20px">
-
-- 🌸 Front End!
-
-- 🍰 Open to new Things
+<div align="center">
+<a href="https://github.com/talialy" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Allynomu" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/18422418/tali" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/talialy" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 <br>
 
+### What about me?
 
-## Skills
+- 💙 Touhou Gal
 
-<div>
-   <h3> Languages </h3>
+- 🌸 Currently learning web developement
 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="#"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /></a>
+- 🐧 I'm a happy linux user
+
+<br>
+
+### Currently Supported!
+
+<table><tr><td valign="top">
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 </div>
+
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talialy&layout=compact" alt="top lang" />
+</td>
+</tr></table>
 
 <br />
-  
-<div>
-  <h3> Tools </h3>
+<br />
 
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /></a>
-  <a href="https://yarnpkg.org"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/></a>
-</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div> 
 
-
-<hr>
-
-<div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talialy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="talialy" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=talialy&show_icons=true&theme=tokyonight&locale=en" alt="talialy" /></p>
-
-</div>
-
-<br /><br /><br />
-<div align=center>
-  <img src="https://user-images.githubusercontent.com/92195207/180657984-24e5f67b-0565-4aef-adac-fc6a881519f7.svg" alt="this shouldn't happen :(" />
-<div />
+<br />
