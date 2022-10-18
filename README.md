@@ -1,5 +1,5 @@
-<h1 align="center"> Hello! I'm Tali </h1>
-<h3 align="center">  a FrontEnd web developer <img src="https://user-images.githubusercontent.com/92195207/180657984-24e5f67b-0565-4aef-adac-fc6a881519f7.svg" alt="this shouldn't happen :(" width="40" align="center" /> </h3>
+<h1 align="center" > Hello! I'm Tali </h1>
+<h3 align="center">  a FrontEnd web developer </h3>
 
 <br />
 <div align="center">
@@ -17,22 +17,22 @@
 </a>  
 </div>  
 
-<br>
+<br />
 
 ### What about me?
 
 - 💙 Touhou Gal
 
-- 🌸 Currently learning web developement
+- 🌸 Next js being my thing
 
-- 🐧 I'm a happy linux user ( Arch & Void btw)
+- 🐧 I'm a happy linux user
 
-<br>
+<br />
 
-## Currently Supported!
+### What do I know?
 
 <table align="center"><tr><td valign="top">
-
+  <br />
 <div align="center">  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" />  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" />  
