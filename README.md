@@ -1,5 +1,9 @@
-<h1 align="center" > Hello! I'm Tali </h1>
-<h3 align="center">  a FrontEnd web developer </h3>
+<img src="https://github.com/TaliAly/TaliAly/blob/main/taki.png?raw=true" alt="taki"  align="left" width="200px" />
+
+<div>
+  <h1 align="center" > Hello! I'm Tali </h1>
+  <h3 align="center">  a FrontEnd web developer </h3>
+</div>
 
 <br />
 <div align="center">
@@ -18,51 +22,38 @@
 </div>  
 
 <br />
-
-### What about me?
-
-- 💙 Touhou Gal
-
-- 🌸 Next js being my thing
-
-- 🐧 I'm a happy linux user
-
 <br />
+<br />
+<br />
+<br />
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talialy&layout=compact" alt="top lang" align="right" />
 
-### What do I know?
-
-<table align="center"><tr><td valign="top">
+<div align="left">  
+  <div align="center">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" />  
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" />  
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" />  
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" />  
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" />  
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="nextJS" height="50" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=markdown" alt="markdown" height="50" />
+  </div>
   <br />
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="nextJS" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=markdown" alt="markdown" height="50" />
-<br />
-<br />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /> 
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="Vscode" height="50" />
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=codepen" alt="codepen" height="50"
+  <div align="center">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /> 
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="Vscode" height="50" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=codepen" alt="codepen" height="50" />
+  </div>
 
 </div>
 
-</td><td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talialy&layout=compact" alt="top lang" align="center" />
-
-</td></tr></table>
 
 <br />
 <br />
 <br />
 <br />
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=talialy&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div> 
 
 <br />
