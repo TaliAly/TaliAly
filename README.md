@@ -31,29 +31,37 @@
 
 <div align="left">  
   <div align="center">
+    <h3>Skills </h3>
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" />  
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" />  
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" />  
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" />  
+    <br />
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" />  
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="nextJS" height="50" />
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=markdown" alt="markdown" height="50" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" height="50" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents" height="50" />
   </div>
   <br />
+</div>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=talialy" alt="stats" />
+
+<div align="left">
   <div align="center">
+    <h3>Tools</h3>
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=vim" alt="Vim" height="50" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="vite" height="50" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="50" />
+    <br />
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /> 
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="Vscode" height="50" />
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=codepen" alt="codepen" height="50" />
   </div>
-
 </div>
 
 
 <br />
-<br />
-<br />
-<br />
-
-
 <br />
