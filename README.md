@@ -1,5 +1,3 @@
-<img src="https://github.com/TaliAly/TaliAly/blob/main/tak.png?raw=true" alt="taki"  align="left" width="200px" />
-
 <div>
   <h1 align="center" > Hello! I'm Tali </h1>
   <h3 align="center">  a FrontEnd web developer </h3>
