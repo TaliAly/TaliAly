@@ -1,6 +1,6 @@
 <div>
   <h1 align="center" > Hello! I'm Tali </h1>
-  <h3 align="center">  a FrontEnd web developer </h3>
+  <h3  align="center"><a href='https://allyson-portfolio.vercel.app'>Checkout my portfolio!</a></h3>
 </div>
 
 <br />
@@ -14,7 +14,7 @@
 <a href="https://codepen.com/talialy" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
 
 <br />
 <br />
