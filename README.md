@@ -1,6 +1,6 @@
 <div>
   <h1 align="center" > Hello! I'm Tali </h1>
-  <h3  align="center"><a href='https://allyson-portfolio.vercel.app'>Checkout my portfolio!</a></h3>
+  <h3  align="center"><a href='https://talialy.vercel.app'>Checkout my portfolio!</a></h3>
 </div>
 
 <br />
